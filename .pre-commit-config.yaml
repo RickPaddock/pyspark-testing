@@ -13,5 +13,5 @@ repos:
   hooks:
   - id: run_tests
     language: script
-    name: Run tests
+    name: Run pytest
     entry: ./test_code/run_test.sh
