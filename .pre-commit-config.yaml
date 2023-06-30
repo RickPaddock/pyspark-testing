@@ -14,4 +14,4 @@ repos:
   - id: run_tests
     language: script
     name: Run tests
-    entry: ./run_test.sh
+    entry: ./test_code/run_test.sh
